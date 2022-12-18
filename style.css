@@ -1,0 +1,5 @@
+.scrollspy-example {
+    position: relative;
+    height: 30rem;
+    overflow-x: auto;
+}
