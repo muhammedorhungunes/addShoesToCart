@@ -4,4 +4,4 @@
 
 # Mobile View
 
-<img src="mobileimage.png?raw=true" width="50%" height="50%">
+<img src="mobileview.png?raw=true" width="50%" height="50%">
